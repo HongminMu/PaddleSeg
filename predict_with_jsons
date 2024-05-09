@@ -12,8 +12,6 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# --config D:\PaddleSeg-release-2.8\configs/mscale_ocrnet/mscale_ocrnet_hrnetv2_psa_cityscapes_1024x2048_150k.yml --model_path D:\PaddleSeg-release-2.8\models/Mscale_ocrnet/model.pdparams --image_path D:\PaddleSeg-release-2.8\demo --save_dir D:\PaddleSeg-release-2.8\demo\output
-
 import os
 import math
 import json
